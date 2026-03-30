@@ -8,7 +8,7 @@
 | Field                  | Details              |
 |------------------------|----------------------|
 | **Student Name**       | Anushka Kumar       |
-| **Registration Number**| 24BE11304           |
+| **Registration Number**| 24BCE11304           |
 | **Course**             | Open Source Software |
 
 ---
